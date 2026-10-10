@@ -1,0 +1,22 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "model": "lab-qwen3-4b-instruct-12k",
+  "elapsed_s": 582.7,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "glob": 1,
+    "ls": 4,
+    "save_report_sections": 1,
+    "task": 3
+  },
+  "tokens": {
+    "input": 57640,
+    "output": 1269
+  },
+  "n_sources": 6,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

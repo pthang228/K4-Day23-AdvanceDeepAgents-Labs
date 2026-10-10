@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "1710.00421",
+    "url": "https://huggingface.co/papers/1710.00421",
+    "title": "Video Generation From Text",
+    "date": "2017-10-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2406.00908",
+    "url": "https://huggingface.co/papers/2406.00908",
+    "title": "ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation",
+    "date": "2024-06-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.00812",
+    "url": "https://arxiv.org/abs/2610.00812",
+    "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+    "date": "2026-09-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "title": "Generative AI for multimodal content: a survey with empirical and experimental evaluations | Artificial Intelligence Review | Springer Nature Link",
+    "date": "2026-03-19",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2310.19512",
+    "url": "https://huggingface.co/papers/2310.19512",
+    "title": "VideoCrafter1: Open Diffusion Models for High-Quality Video Generation",
+    "date": "2023-10-30",
+    "source": "hf-search"
+  }
+]

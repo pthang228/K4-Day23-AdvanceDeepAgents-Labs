@@ -1,0 +1,290 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:1707.06347",
+    "url": "https://arxiv.org/abs/1707.06347",
+    "title": "Proximal Policy Optimization Algorithms",
+    "date": "2017-07-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback (InstructGPT)",
+    "date": "2022-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO)",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "arXiv:2411.15124",
+    "url": "https://arxiv.org/abs/2411.15124",
+    "title": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+    "date": "2024-11-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "s41586-025-09422-z",
+    "url": "https://www.nature.com/articles/s41586-025-09422-z.pdf",
+    "title": "DeepSeek-R1 (Nature version): reinforcement learning of DeepSeek-R1-Zero",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "arXiv:2501.12599",
+    "url": "https://arxiv.org/abs/2501.12599",
+    "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+    "date": "2025-06-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:2503.24290",
+    "url": "https://arxiv.org/abs/2503.24290",
+    "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
+    "date": "2025-07-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2504.13837",
+    "url": "https://arxiv.org/abs/2504.13837",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "HF-Papers:2507.14843",
+    "url": "https://huggingface.co/papers/2507.14843",
+    "title": "The Invisible Leash: Why RLVR May Not Escape Its Origin",
+    "date": "2025-07-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "arXiv:2506.10947",
+    "url": "https://arxiv.org/abs/2506.10947",
+    "title": "Spurious Rewards: Rethinking Training Signals in RLVR",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "arXiv:2506.14965",
+    "url": "https://arxiv.org/pdf/2506.14965",
+    "title": "Revisiting Reinforcement Learning for LLM Reasoning from A Cross-Domain Perspective (Guru)",
+    "date": "2025-06-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "arXiv:2503.14476",
+    "url": "https://arxiv.org/pdf/2503.14476",
+    "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+    "date": "2025-03-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "arXiv:2503.20783",
+    "url": "https://arxiv.org/abs/2503.20783",
+    "title": "Understanding R1-Zero-Like Training: A Critical Perspective (Dr. GRPO)",
+    "date": "2025-03-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "arXiv:2507.18071",
+    "url": "https://arxiv.org/abs/2507.18071",
+    "title": "Group Sequence Policy Optimization (GSPO)",
+    "date": "2025-07-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "HF-Papers:2506.01939",
+    "url": "https://huggingface.co/papers/2506.01939",
+    "title": "Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "arXiv:2510.13786",
+    "url": "https://arxiv.org/abs/2510.13786",
+    "title": "The Art of Scaling Reinforcement Learning Compute for LLMs (ScaleRL)",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "hf-blog-open-r1",
+    "url": "https://huggingface.co/blog/open-r1",
+    "title": "Open-R1: a fully open reproduction of DeepSeek-R1 (Hugging Face blog)",
+    "date": "2025-01-28",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "gh-open-r1-readme",
+    "url": "https://raw.githubusercontent.com/huggingface/open-r1/main/README.md",
+    "title": "Open R1 (GitHub README, huggingface/open-r1)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "hf-model-openr1-distill-7b",
+    "url": "https://huggingface.co/open-r1/OpenR1-Distill-7B",
+    "title": "open-r1/OpenR1-Distill-7B (model card)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "hf-dataset-openr1-math-220k",
+    "url": "https://huggingface.co/datasets/open-r1/OpenR1-Math-220k",
+    "title": "open-r1/OpenR1-Math-220k (dataset card)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "hf-docs-trl-grpo",
+    "url": "https://huggingface.co/docs/trl/grpo_trainer",
+    "title": "GRPO Trainer (Hugging Face TRL documentation)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "gh-verl-readme",
+    "url": "https://github.com/verl-project/verl/blob/main/README.md",
+    "title": "verl (Volcano Engine Reinforcement Learning for LLMs) - GitHub README",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 24,
+    "id": "arXiv:2604.15149",
+    "url": "https://arxiv.org/html/2604.15149",
+    "title": "LLMs Gaming Verifiers: RLVR can Lead to Reward Hacking",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "arXiv:2305.18290",
+    "url": "https://arxiv.org/abs/2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "date": "2023-05-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "ACL2024-2402.14740",
+    "url": "https://aclanthology.org/2024.acl-long.662.pdf",
+    "title": "Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs (RLOO)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 27,
+    "id": "hf-model-deepseek-r1",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+    "title": "deepseek-ai/DeepSeek-R1 (model card)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 28,
+    "id": "arXiv:2503.18892",
+    "url": "https://arxiv.org/abs/2503.18892",
+    "title": "SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild",
+    "date": "2025-03-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 29,
+    "id": "HF-Papers:2510.27044",
+    "url": "https://huggingface.co/papers/2510.27044",
+    "title": "Limits of Generalization in RLVR: Two Case Studies in Mathematical Reasoning",
+    "date": "2025-10-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 30,
+    "id": "HF-Papers:2609.34344",
+    "url": "https://huggingface.co/papers/2609.34344",
+    "title": "Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors",
+    "date": "2026-09-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 31,
+    "id": "HF-Papers:2610.11959",
+    "url": "https://huggingface.co/papers/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 32,
+    "id": "arXiv:2509.02547",
+    "url": "https://arxiv.org/html/2509.02547v1",
+    "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
+    "date": "2025-09-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "arXiv:2503.09516",
+    "url": "https://arxiv.org/abs/2503.09516",
+    "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning",
+    "date": "2025-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "arXiv:2504.16084",
+    "url": "https://arxiv.org/abs/2504.16084",
+    "title": "TTRL: Test-Time Reinforcement Learning",
+    "date": "2025-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 35,
+    "id": "HF-Papers:2505.00551",
+    "url": "https://huggingface.co/papers/2505.00551",
+    "title": "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models",
+    "date": "2025-05-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 36,
+    "id": "HF-Papers:2501.11223",
+    "url": "https://huggingface.co/papers/2501.11223",
+    "title": "Reasoning Language Models: A Blueprint",
+    "date": "2025-01-20",
+    "source": "hf-daily"
+  }
+]

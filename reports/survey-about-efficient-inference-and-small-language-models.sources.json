@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2606.14711",
+    "url": "https://huggingface.co/papers/2606.14711",
+    "title": "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models",
+    "date": "2026-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.09186",
+    "url": "https://arxiv.org/abs/2610.09186",
+    "title": "The Dichotomy Between Pattern Recognition and Step-by-Step Reasoning",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "https://aclanthology.org/2025.ranlp-1.93.pdf",
+    "url": "https://aclanthology.org/2025.ranlp-1.93.pdf",
+    "title": "A Survey on Small Language Models",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2610.09941",
+    "url": "https://arxiv.org/abs/2610.09941",
+    "title": "Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.08048",
+    "url": "https://arxiv.org/abs/2610.08048",
+    "title": "DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  }
+]

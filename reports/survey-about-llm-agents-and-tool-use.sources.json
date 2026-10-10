@@ -1,0 +1,234 @@
+[
+  {
+    "n": 1,
+    "id": "arxiv-2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "arxiv-2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "zhou2023-webarena",
+    "url": "https://arxiv.org/abs/2307.13854",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2023-07-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "yao2024-tau-bench",
+    "url": "https://arxiv.org/abs/2406.12045",
+    "title": "tau-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "arxiv-2609.37196-toolfence",
+    "url": "https://arxiv.org/abs/2609.37196",
+    "title": "ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "hf-2509.10540-echoleak",
+    "url": "https://huggingface.co/papers/2509.10540",
+    "title": "EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System",
+    "date": "2025-09-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "owasp-llm-top10-2025",
+    "url": "https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-v2025.pdf",
+    "title": "OWASP Top 10 for LLM Applications 2025 (LLM01 Prompt Injection; LLM06 Excessive Agency)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "bhat2026-validity-audit",
+    "url": "https://huggingface.co/papers/2607.02577",
+    "title": "Benchmarking the Benchmarks: A Validity Audit of Tool-Calling Evaluation",
+    "date": "2026-06-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "arxiv-2609.32691-silent-failures",
+    "url": "https://arxiv.org/abs/2609.32691",
+    "title": "Silent Failures in Agentic Security Evaluation: A Validated Harness for Tool-Call Mediation Under Indirect Prompt Injection",
+    "date": "2026-09-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "anthropic-mcp-2024",
+    "url": "https://www.anthropic.com/news/model-context-protocol",
+    "title": "Introducing the Model Context Protocol",
+    "date": "2024-11-25",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "google-a2a-2025",
+    "url": "https://developers.googleblog.com/a2a-a-new-era-of-agent-interoperability/",
+    "title": "Announcing the Agent2Agent Protocol (A2A)",
+    "date": "2025-04-09",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "arxiv-2505.03275",
+    "url": "https://arxiv.org/abs/2505.03275",
+    "title": "RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation",
+    "date": "2025-05-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "arxiv-2201.11903",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "date": "2022-01-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "arxiv-2205.00445",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "2022-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "openai-webgpt-blog",
+    "url": "https://openai.com/index/webgpt/",
+    "title": "WebGPT: Improving the factual accuracy of language models through web browsing",
+    "date": "2021-12-16",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "acm-csur-tool-learning",
+    "url": "https://dl.acm.org/doi/10.1145/3704435",
+    "title": "Tool Learning with Foundation Models",
+    "date": "2024-12-24",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "arxiv-2503.23037",
+    "url": "https://arxiv.org/abs/2503.23037",
+    "title": "Agentic Large Language Models, a survey",
+    "date": "2025-03-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "hf-2405.13966",
+    "url": "https://huggingface.co/papers/2405.13966",
+    "title": "On the Brittle Foundations of ReAct Prompting for Agentic Large Language Models",
+    "date": "2024-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "openai-function-calling",
+    "url": "https://developers.openai.com/api/docs/guides/function-calling",
+    "title": "Function calling - OpenAI API",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "qin2023-toolllm",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "patil2025-bfcl-paper",
+    "url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/patil25a/patil25a.pdf",
+    "title": "The Berkeley Function Calling Leaderboard (BFCL)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "liu2023-agentbench",
+    "url": "https://arxiv.org/abs/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2025-10-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "hf-2604.16706-agentprop-bench",
+    "url": "https://huggingface.co/papers/2604.16706",
+    "title": "Evaluating Tool-Using Language Agents: Judge Reliability, Propagation Cascades, and Runtime Mitigation in AgentProp-Bench",
+    "date": "2026-04-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "willison-lethal-trifecta-2025",
+    "url": "https://simonwillison.net/2025/jun/16/the-lethal-trifecta/",
+    "title": "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
+    "date": "2025-06-16",
+    "source": "web"
+  },
+  {
+    "n": 25,
+    "id": "claude-code-sandboxing",
+    "url": "https://code.claude.com/docs/en/sandboxing",
+    "title": "Configure the sandboxed Bash tool - Claude Code Docs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 26,
+    "id": "arxiv-2505.02279",
+    "url": "https://arxiv.org/abs/2505.02279",
+    "title": "A Survey of Agent Interoperability Protocols (MCP, ACP, A2A, ANP)",
+    "date": "2025-05-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "metatool-2310.03128",
+    "url": "https://arxiv.org/pdf/2310.03128.pdf",
+    "title": "MetaTool Benchmark for Large Language Models",
+    "date": "2024-12-04",
+    "source": "web"
+  },
+  {
+    "n": 28,
+    "id": "hf-2511.17006",
+    "url": "https://huggingface.co/papers/2511.17006",
+    "title": "Budget-Aware Tool-Use Enables Effective Agent Scaling",
+    "date": "2025-11-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 29,
+    "id": "arxiv-2512.08290",
+    "url": "https://arxiv.org/abs/2512.08290",
+    "title": "Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem",
+    "date": "2025-12-09",
+    "source": "arxiv"
+  }
+]

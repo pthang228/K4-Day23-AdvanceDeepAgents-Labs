@@ -1,0 +1,20 @@
+{
+  "topic": "survey about video and multimodal generation",
+  "model": "lab-qwen3-4b-instruct-12k",
+  "elapsed_s": 539.5,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "save_report_sections": 1,
+    "task": 3
+  },
+  "tokens": {
+    "input": 33091,
+    "output": 969
+  },
+  "n_sources": 5,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

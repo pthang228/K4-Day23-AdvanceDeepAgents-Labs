@@ -1,0 +1,570 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models (Ha & Schmidhuber) - arXiv landing page",
+    "date": "2018-05-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "worldmodels.github.io",
+    "url": "https://worldmodels.github.io",
+    "title": "World Models - interactive project page (V/M/C architecture and scores)",
+    "date": "2018-03-27",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:1811.04551",
+    "url": "https://arxiv.org/abs/1811.04551",
+    "title": "PlaNet (Deep Planning Network) - arXiv landing page",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "PMLR v97/hafner19a",
+    "url": "https://proceedings.mlr.press/v97/hafner19a.html",
+    "title": "PlaNet - PMLR paper page (RSSM details, DMControl results, compute)",
+    "date": "2019-05-24",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:1912.01603",
+    "url": "https://arxiv.org/abs/1912.01603",
+    "title": "Dreamer (Dream to Control) - arXiv landing page",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "hf-papers-2301.04104",
+    "url": "https://huggingface.co/papers/2301.04104",
+    "title": "Mastering Diverse Domains through World Models (DreamerV3) - HF Daily Papers page",
+    "date": "2023-01-10",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "danijar.com/project/dreamerv3",
+    "url": "https://danijar.com/project/dreamerv3/",
+    "title": "DreamerV3 - project page (Minecraft diamond numbers, scaling, compute)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:1911.08265",
+    "url": "https://arxiv.org/abs/1911.08265",
+    "title": "MuZero - arXiv landing page",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "openai-sora-2024",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video generation models as world simulators (Sora technical report)",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "hf-daily-2501.03575",
+    "url": "https://huggingface.co/papers/2501.03575",
+    "title": "Cosmos World Foundation Model Platform for Physical AI - HF Daily Papers page",
+    "date": "2025-01-07",
+    "source": "hf-daily"
+  },
+  {
+    "n": 11,
+    "id": "nvidia-docs-cosmos-predict1-matrix",
+    "url": "https://docs.nvidia.com/cosmos/latest/predict1/model_matrix.html",
+    "title": "Cosmos Predict1 model matrix and tokenizer reference (NVIDIA docs)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "arxiv-2402.15391",
+    "url": "https://arxiv.org/abs/2402.15391",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-02-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "arxiv-2408.14837",
+    "url": "https://arxiv.org/abs/2408.14837",
+    "title": "Diffusion Models Are Real-Time Game Engines (GameNGen)",
+    "date": "2024-08-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "oasis-project-page",
+    "url": "https://oasis-model.github.io/",
+    "title": "Oasis: A Universe in a Transformer (project page)",
+    "date": "2024-10-31",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "hf-daily-2504.08388",
+    "url": "https://huggingface.co/papers/2504.08388",
+    "title": "MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft - HF Daily Papers page",
+    "date": "2025-04-11",
+    "source": "hf-daily"
+  },
+  {
+    "n": 16,
+    "id": "deepmind-genie3",
+    "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
+    "title": "Genie 3: A new frontier for world models (Google DeepMind blog)",
+    "date": "2025-08-05",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "sam-motamed/physics-IQ-benchmark",
+    "url": "https://github.com/sam-motamed/physics-IQ-benchmark",
+    "title": "Physics-IQ leaderboard (official code repository)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2603.19607",
+    "url": "https://huggingface.co/papers/2603.19607",
+    "title": "Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning",
+    "date": "2026-03-20",
+    "source": "hf-daily"
+  },
+  {
+    "n": 19,
+    "id": "arXiv:2606.31672",
+    "url": "https://arxiv.org/abs/2606.31672",
+    "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models",
+    "date": "2026-06-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "arXiv:2608.13552",
+    "url": "https://arxiv.org/abs/2608.13552",
+    "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+    "date": "2026-08-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "picx.dev/PlayWorld",
+    "url": "https://picx.dev/p/PcOtrb",
+    "title": "PlayWorld detailed model scores and protocol comparison (third-party summary)",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "arXiv:2605.15960",
+    "url": "https://arxiv.org/abs/2605.15960",
+    "title": "Imperfect World Models are Exploitable",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "arxiv-2411.02385",
+    "url": "https://arxiv.org/html/2411.02385v1",
+    "title": "How Far Is Video Generation from World Model: A Physical Law Perspective",
+    "date": "2024-11-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "hf-daily-2507.05169",
+    "url": "https://huggingface.co/papers/2507.05169",
+    "title": "Critiques of World Models",
+    "date": "2025-07-07",
+    "source": "hf-daily"
+  },
+  {
+    "n": 25,
+    "id": "arxiv-2501.03575",
+    "url": "https://arxiv.org/abs/2501.03575",
+    "title": "Cosmos World Foundation Model Platform for Physical AI (arXiv)",
+    "date": "2025-01-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "hf-search-models-world-model",
+    "url": "https://huggingface.co/models?search=world+model",
+    "title": "HF Hub model search: world model",
+    "date": "n.d.",
+    "source": "hf-search"
+  },
+  {
+    "n": 27,
+    "id": "hf-search-spaces-world-model",
+    "url": "https://huggingface.co/spaces?search=world+model",
+    "title": "HF Hub spaces search: world model",
+    "date": "n.d.",
+    "source": "hf-search"
+  },
+  {
+    "n": 28,
+    "id": "hf-papers-2307.02064",
+    "url": "https://huggingface.co/papers/2307.02064",
+    "title": "Facing Off World Model Backbones: RNNs, Transformers, and S4 (S4WM) - HF Daily Papers page",
+    "date": "2023-07-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 29,
+    "id": "arXiv:2301.08243",
+    "url": "https://arxiv.org/abs/2301.08243",
+    "title": "I-JEPA - arXiv landing page",
+    "date": "2023-04-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 30,
+    "id": "arXiv:2306.02572",
+    "url": "https://arxiv.org/abs/2306.02572",
+    "title": "LeCun's position paper (H-JEPA / autonomous machine intelligence) - arXiv landing page",
+    "date": "2023-06-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 31,
+    "id": "arXiv:2404.08471",
+    "url": "https://arxiv.org/abs/2404.08471",
+    "title": "V-JEPA - arXiv landing page",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 32,
+    "id": "hf-papers-2506.09985",
+    "url": "https://huggingface.co/papers/2506.09985",
+    "title": "V-JEPA 2 - HF Daily Papers page",
+    "date": "2025-06-11",
+    "source": "hf-daily"
+  },
+  {
+    "n": 33,
+    "id": "arxiv-2506.09985",
+    "url": "https://arxiv.org/abs/2506.09985",
+    "title": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+    "date": "2025-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "hf-model-facebook/vjepa2-vitl-fpc64-256",
+    "url": "https://huggingface.co/facebook/vjepa2-vitl-fpc64-256",
+    "title": "facebook/vjepa2-vitl-fpc64-256 - Hugging Face model page",
+    "date": "2025-08-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 35,
+    "id": "arxiv-2411.14499",
+    "url": "https://arxiv.org/abs/2411.14499",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-12-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 36,
+    "id": "arxiv-2405.03520",
+    "url": "https://arxiv.org/abs/2405.03520",
+    "title": "Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond",
+    "date": "2024-05-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 37,
+    "id": "deepmind-genie2",
+    "url": "https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/",
+    "title": "Genie 2: A large-scale foundation world model (Google DeepMind blog)",
+    "date": "2024-12-04",
+    "source": "web"
+  },
+  {
+    "n": 38,
+    "id": "blog.google/project-genie",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+    "title": "Project Genie: Experimenting with infinite, interactive worlds (Google)",
+    "date": "2026-01-29",
+    "source": "web"
+  },
+  {
+    "n": 39,
+    "id": "hf-daily-2509.24527",
+    "url": "https://huggingface.co/papers/2509.24527",
+    "title": "Training Agents Inside of Scalable World Models (Dreamer 4) - HF Daily Papers page",
+    "date": "2025-09-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 40,
+    "id": "arxiv-2405.12399",
+    "url": "https://arxiv.org/abs/2405.12399",
+    "title": "Diffusion for World Modeling: Visual Details Matter in Atari (DIAMOND)",
+    "date": "2024-05-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 41,
+    "id": "hf-daily-2511.00062",
+    "url": "https://huggingface.co/papers/2511.00062",
+    "title": "World Simulation with Video Foundation Models for Physical AI (Cosmos-Predict2.5) - HF Daily Papers page",
+    "date": "2025-10-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 42,
+    "id": "arxiv-2309.17080",
+    "url": "https://arxiv.org/abs/2309.17080",
+    "title": "GAIA-1: A Generative World Model for Autonomous Driving",
+    "date": "2023-09-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 43,
+    "id": "hf-search-2503.20523",
+    "url": "https://huggingface.co/papers/2503.20523",
+    "title": "GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving",
+    "date": "2025-03-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 44,
+    "id": "meta-vjepa2-blog-github",
+    "url": "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/",
+    "title": "V-JEPA 2 robot manipulation success rates and blog framing (Meta AI blog + facebookresearch/vjepa2 README)",
+    "date": "2025-06-11",
+    "source": "web"
+  },
+  {
+    "n": 45,
+    "id": "arXiv:2502.20694",
+    "url": "https://arxiv.org/abs/2502.20694",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "2025-02-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 46,
+    "id": "Efficient-Large-Model/worldmodelbench",
+    "url": "https://huggingface.co/datasets/Efficient-Large-Model/worldmodelbench",
+    "title": "Efficient-Large-Model/worldmodelbench (benchmark dataset on the Hub)",
+    "date": "n.d.",
+    "source": "hf-search"
+  },
+  {
+    "n": 47,
+    "id": "WACV2026/Motamed",
+    "url": "https://openaccess.thecvf.com/content/WACV2026/papers/Motamed_Do_Generative_Video_Models_Understand_Physical_Principles_WACV_2026_paper.pdf",
+    "title": "Do Generative Video Models Understand Physical Principles? (WACV 2026 camera-ready, Physics-IQ details)",
+    "date": "2026",
+    "source": "web"
+  },
+  {
+    "n": 48,
+    "id": "arXiv:2501.09038",
+    "url": "https://arxiv.org/abs/2501.09038",
+    "title": "Do generative video models understand physical principles? (Physics-IQ)",
+    "date": "2025-02-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 49,
+    "id": "arXiv:2504.00983",
+    "url": "https://arxiv.org/abs/2504.00983",
+    "title": "WorldScore: A Unified Evaluation Benchmark for World Generation",
+    "date": "2025-04-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 50,
+    "id": "haoyi-duan/WorldScore",
+    "url": "https://haoyi-duan.github.io/WorldScore/",
+    "title": "WorldScore project page (ICCV 2025) + result tables",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 51,
+    "id": "benchmarklist/worldscore",
+    "url": "https://benchmarklist.com/benchmarks/worldscore/",
+    "title": "WorldScore rankings aggregator (BenchmarkList)",
+    "date": "2025-04-01",
+    "source": "web"
+  },
+  {
+    "n": 52,
+    "id": "Howieeeee/WorldScore_Leaderboard",
+    "url": "https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard",
+    "title": "WorldScore Leaderboard (official Hugging Face Space)",
+    "date": "n.d.",
+    "source": "hf-search"
+  },
+  {
+    "n": 53,
+    "id": "2605.25874",
+    "url": "https://huggingface.co/papers/2605.25874",
+    "title": "WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation",
+    "date": "2026-05-25",
+    "source": "hf-daily"
+  },
+  {
+    "n": 54,
+    "id": "meituan-longcat/WBench",
+    "url": "https://huggingface.co/datasets/meituan-longcat/WBench",
+    "title": "WBench dataset card and leaderboard (Hugging Face Hub)",
+    "date": "n.d.",
+    "source": "hf-search"
+  },
+  {
+    "n": 55,
+    "id": "2606.11129",
+    "url": "https://huggingface.co/papers/2606.11129",
+    "title": "WorldOlympiad: Can Your World Model Survive a Triathlon?",
+    "date": "2026-06-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 56,
+    "id": "2601.01528",
+    "url": "https://huggingface.co/papers/2601.01528",
+    "title": "DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving",
+    "date": "2026-01-04",
+    "source": "hf-daily"
+  },
+  {
+    "n": 57,
+    "id": "PhysionLabs/Physion-Eval",
+    "url": "https://huggingface.co/datasets/PhysionLabs/Physion-Eval",
+    "title": "PhysionLabs/Physion-Eval (benchmark dataset on the Hub)",
+    "date": "n.d.",
+    "source": "hf-search"
+  },
+  {
+    "n": 58,
+    "id": "arXiv:2606.18943",
+    "url": "https://arxiv.org/abs/2606.18943",
+    "title": "Physics-IQ Verified",
+    "date": "2026-06-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 59,
+    "id": "arXiv:2601.21282",
+    "url": "https://arxiv.org/abs/2601.21282",
+    "title": "WorldBench: Benchmarking Physical Understanding of World Models by Isolating Physics Concepts",
+    "date": "2026-01-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 60,
+    "id": "arXiv:2605.15185",
+    "url": "https://arxiv.org/abs/2605.15185",
+    "title": "PDI-Bench: Quantitative Video World Model Evaluation for Geometric-Consistency",
+    "date": "2026-05-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 61,
+    "id": "arXiv:2608.07408",
+    "url": "https://arxiv.org/abs/2608.07408",
+    "title": "Addressable Memory for Video World Models (LoopBench)",
+    "date": "2026-08-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 62,
+    "id": "arXiv:2607.14180",
+    "url": "https://arxiv.org/html/2607.14180",
+    "title": "RENEW: Towards Learning World Models and Repairing Model Exploitation from Preferences",
+    "date": "2026-07-15",
+    "source": "web"
+  },
+  {
+    "n": 63,
+    "id": "arXiv:2607.23147",
+    "url": "https://ar5iv.labs.arxiv.org/html/2607.23147",
+    "title": "False Prophets: On the Security of World Models in Agentic Systems",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 64,
+    "id": "arXiv:1905.11979",
+    "url": "https://arxiv.org/abs/1905.11979",
+    "title": "Causal Confusion in Imitation Learning",
+    "date": "2019",
+    "source": "web"
+  },
+  {
+    "n": 65,
+    "id": "web-safety-challenge-2510.05865",
+    "url": "https://arxiv.org/pdf/2510.05865",
+    "title": "The Safety Challenge of World Models for Embodied AI Agents: A Review",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 66,
+    "id": "web-techtalks-genie3",
+    "url": "https://bdtechtalks.com/2025/08/07/deepmind-genie-3/",
+    "title": "The promise and limitations of DeepMind's Genie 3 (TechTalks)",
+    "date": "2025-08-07",
+    "source": "web"
+  },
+  {
+    "n": 67,
+    "id": "hf-daily-2605.00080",
+    "url": "https://huggingface.co/papers/2605.00080",
+    "title": "World Model for Robot Learning: A Comprehensive Survey",
+    "date": "2026-04-30",
+    "source": "hf-daily"
+  },
+  {
+    "n": 68,
+    "id": "hf-daily-2610.12299",
+    "url": "https://huggingface.co/papers/2610.12299",
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction (ME-World)",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 69,
+    "id": "web-mewm-iccv2025",
+    "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_Medical_World_Model_ICCV_2025_paper.pdf",
+    "title": "Medical World Model (MeWM) - ICCV 2025",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 70,
+    "id": "web-nature-aurora",
+    "url": "https://www.nature.com/articles/s41586-025-09005-y",
+    "title": "A foundation model for the Earth system (Aurora, Nature)",
+    "date": "2025-05-21",
+    "source": "web"
+  },
+  {
+    "n": 71,
+    "id": "arxiv-2510.16732",
+    "url": "https://arxiv.org/abs/2510.16732",
+    "title": "A Comprehensive Survey on World Models for Embodied AI",
+    "date": "2025-10-19",
+    "source": "arxiv"
+  }
+]
